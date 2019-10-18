@@ -1,1 +1,1 @@
-# IPVS-Probabilistic-Scheduling-Module
+# IPVS - Probabilistic Scheduling Module
